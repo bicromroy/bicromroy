@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Full+Stack+Engineer;Building+Modern+Web+Apps;React+%7C+Next.js+%7C+Node.js" alt="Typing SVG" <p/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Full+Stack+Developer;Building+Modern+Web+Apps;React+%7C+Next.js+%7C+Node.js" alt="Typing SVG" <p/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bicromroy&label=Profile%20views&color=0e75b6&style=flat" alt="bicromroy" /> </p>
 

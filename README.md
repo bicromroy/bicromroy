@@ -3,13 +3,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bicromroy&label=Profile%20views&color=0e75b6&style=flat" alt="bicromroy" /> </p>
 
-- 📫 How to reach me **bicrom23@gmail.com**
-
+<h3 align="left">🙋‍♂️ About Me:</h3>
+<p align="left">
+- 🌱 I'm currently learning <b>MERN Stack - React, Node.js, MongoDB</b><br>
+- 💻 I love building <b>responsive websites</b><br>
+- 📍 From <b>Dinajpur, Bangladesh 🇧🇩</b><br>
+- ⚡ Fun fact: <b>I love solving problems with code</b>
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bicrom roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bicrom roy" height="30" width="40" /></a>
-<a href="https://fb.com/bicrom roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bicrom roy" height="30" width="40" /></a>
-<a href="https://instagram.com/bicrom._.roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bicrom._.roy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bicromroy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bicrom roy" height="30" width="40" /></a>
+<a href="https://www.facebook.com/bicrom.br" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bicrom roy" height="30" width="40" /></a>
+<a href="https://www.instagram.com/bicrom._.roy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bicrom._.roy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

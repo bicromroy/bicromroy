@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Bicrom Roy</h1>
 
 <p align="center">
-  <strong>Aspiring Full Stack Engineer</strong><br>
+  <strong>Aspiring Full Stack Developer</strong><br>
   <em>Code. Build. Deploy. Repeat.</em>
 </p>
 

@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Full+Stack+Developer;Building+Modern+Web+Apps;React+%7C+Next.js+%7C+Node.js" alt="Typing SVG" <p/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Full+Stack+Developer;Building+Modern+Web+Apps;React+%7C+Next.js+%7C+Node.js" alt="Typing SVG"> <p/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bicromroy&label=Profile%20views&color=0e75b6&style=flat" alt="bicromroy" /> </p>
 
@@ -76,7 +76,6 @@
   </a>
   <a href="https://www.facebook.com/bicrom.br">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
     </a>
   <a href="https://www.instagram.com/bicrom._.roy/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />

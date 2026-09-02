@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/bicromroy/bicromroy/main/banner.png" alt="Banner" width="100%"/>
 <h1 align="center">Hi 👋, I'm Bicrom Roy</h1>
 <h3 align="center">Aspiring Full Stack Developer</h3>
 

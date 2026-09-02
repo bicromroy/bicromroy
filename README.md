@@ -58,10 +58,6 @@
   <img src="https://streak-stats.demolab.com/?user=bicromroy&theme=transparent&hide_border=false&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=3B82F6&currStreakNum=3B82F6&sideNums=3B82F6&dates=9CA3AF" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bicromroy&theme=transparent&hide_border=true&line=3B82F6&point=3B82F6&area=true" alt="Activity Graph"/>
-</p>
-
 ## 🌐 Let's Connect
 
 <p align="center">
